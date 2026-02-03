@@ -13,7 +13,7 @@
       "4fe77ebc-92be-404c-ac5c-5bf1132b52ea",
       "5dcd6bf0-23d4-40a2-b0a7-23efa1bdae18"
     ],
-    "addedAt": 1770104337357
+    "addedAt": 1770104226745
   },
   "515b476a-01fa-4df0-8dcc-fb8f7c854800": {
     "title": "Winter Spice",
@@ -26,12 +26,12 @@
   },
   "8684541b-5c00-4c61-b5b9-fdfded00fe60": {
     "title": "Already Home",
-    "description": "",
+    "description": "Already Home is a collection of songs about love, family, and finding where you belong. For anyone who's ever felt lost and discovered they were already standing where they needed to be.",
     "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/52d1b9ec-4b02-481b-ac7a-f146f3a3135a.jpeg",
     "url": "https://suno.com/playlist/8684541b-5c00-4c61-b5b9-fdfded00fe60",
     "songs": [],
-    "addedAt": 1770102666565
+    "addedAt": 1770105366462
   },
   "18bb34aa-49f4-4f2d-98b9-335aac4d3881": {
     "title": "Journal of Discords",
@@ -59,5 +59,22 @@
     "url": "https://suno.com/playlist/06077ddd-a0e5-49ca-9445-b0049e9b0513",
     "songs": [],
     "addedAt": 1770065065644
+  },
+  "f10326a4-da75-4c1b-a3c9-3599ebcf0dbe": {
+    "title": "Experimental",
+    "description": "",
+    "creator": "ianux",
+    "coverUrl": "https://cdn2.suno.ai/image_large_dd98d38f-59d0-4a0c-a9c2-0948368c175b.jpeg",
+    "url": "https://suno.com/playlist/f10326a4-da75-4c1b-a3c9-3599ebcf0dbe",
+    "songs": [
+      "dd98d38f-59d0-4a0c-a9c2-0948368c175b",
+      "c1d02921-bd12-4126-9544-5f4b344611b5",
+      "4933bf03-f6af-4f2f-a6b3-11afc30f6106",
+      "6e6681fe-5375-4dcc-9efc-3b92d176a735",
+      "30fdc75a-a858-4540-914f-6ce284631426",
+      "fea8ab3c-b792-4753-8dd0-113b3ecdb0c0",
+      "ad99c003-bedf-43f3-8449-8fb2043b1056"
+    ],
+    "addedAt": 1770105570230
   }
 }
