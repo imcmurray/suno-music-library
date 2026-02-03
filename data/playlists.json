@@ -1,2 +1,63 @@
 {
+  "231c0afd-ad3a-4576-97b1-1717ae7e001f": {
+    "title": "Techno",
+    "description": "",
+    "creator": "ianux",
+    "coverUrl": "https://cdn2.suno.ai/image_large_1f7bdcb1-6848-4f01-af74-b81b67e18d4e.jpeg",
+    "url": "https://suno.com/playlist/231c0afd-ad3a-4576-97b1-1717ae7e001f",
+    "songs": [
+      "1f7bdcb1-6848-4f01-af74-b81b67e18d4e",
+      "c65212bd-2b8d-4fbe-9a3c-e40e0ec3d44d",
+      "039adf34-88c4-48b6-9c3f-b9e381c7cba5",
+      "ecb8c986-6de8-48e3-bdb8-b2203028b233",
+      "4fe77ebc-92be-404c-ac5c-5bf1132b52ea",
+      "5dcd6bf0-23d4-40a2-b0a7-23efa1bdae18"
+    ],
+    "addedAt": 1770104337357
+  },
+  "515b476a-01fa-4df0-8dcc-fb8f7c854800": {
+    "title": "Winter Spice",
+    "description": "",
+    "creator": "ianux",
+    "coverUrl": "https://cdn2.suno.ai/image_large_0f4c5513-749e-491e-b2cf-d301820c8a5c.jpeg",
+    "url": "https://suno.com/playlist/515b476a-01fa-4df0-8dcc-fb8f7c854800",
+    "songs": [],
+    "addedAt": 1770103723052
+  },
+  "8684541b-5c00-4c61-b5b9-fdfded00fe60": {
+    "title": "Already Home",
+    "description": "",
+    "creator": "ianux",
+    "coverUrl": "https://cdn2.suno.ai/52d1b9ec-4b02-481b-ac7a-f146f3a3135a.jpeg",
+    "url": "https://suno.com/playlist/8684541b-5c00-4c61-b5b9-fdfded00fe60",
+    "songs": [],
+    "addedAt": 1770102666565
+  },
+  "18bb34aa-49f4-4f2d-98b9-335aac4d3881": {
+    "title": "Journal of Discords",
+    "description": "",
+    "creator": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/video_gen_image_large_c49845a5-6ae3-4a42-a219-2e9452c296ac_11a48eed-b48d-425a-84bc-41029636d8a8.jpeg",
+    "url": "https://suno.com/playlist/18bb34aa-49f4-4f2d-98b9-335aac4d3881",
+    "songs": [],
+    "addedAt": 1770102623240
+  },
+  "7cef1ad1-a7f9-491f-9a50-762e9e66dd04": {
+    "title": "ExMormon",
+    "description": "",
+    "creator": "ianux",
+    "coverUrl": "https://cdn2.suno.ai/a0be9261-af10-47f0-8bbc-63a1c704de6d.jpeg",
+    "url": "https://suno.com/playlist/7cef1ad1-a7f9-491f-9a50-762e9e66dd04",
+    "songs": [],
+    "addedAt": 1770065154517
+  },
+  "06077ddd-a0e5-49ca-9445-b0049e9b0513": {
+    "title": "Secular Songs",
+    "description": "",
+    "creator": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/cd8db8d7-0f07-4ee2-8c18-868e3d1f371a.jpeg",
+    "url": "https://suno.com/playlist/06077ddd-a0e5-49ca-9445-b0049e9b0513",
+    "songs": [],
+    "addedAt": 1770065065644
+  }
 }
