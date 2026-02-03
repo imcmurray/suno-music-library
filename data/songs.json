@@ -131,49 +131,49 @@
     "title": "Every Answer",
     "artist": "ianux",
     "coverUrl": "https://cdn2.suno.ai/52d1b9ec-4b02-481b-ac7a-f146f3a3135a.jpeg",
-    "style": "",
-    "description": "",
-    "addedAt": 1770057108124
+    "style": "indie pop, acoustic, electronic",
+    "description": "When something good happens, who do you thank? This song is for the fr",
+    "addedAt": 1770105377721
   },
   "6a9da824-2991-4cdc-bbab-82fe142dee91": {
     "title": "This Is Enough",
     "artist": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_6a9da824-2991-4cdc-bbab-82fe142dee91.jpeg",
-    "style": "",
+    "style": "indie folk, acoustic, anthemic",
     "description": "",
-    "addedAt": 1770057109135
+    "addedAt": 1770105384931
   },
   "66ef8488-9f44-4f5b-a011-75808dc064fa": {
     "title": "One More Day",
     "artist": "ianux",
     "coverUrl": "https://cdn2.suno.ai/07b6995f-59d4-44f9-a4c7-e6706454d8bb.jpeg",
-    "style": "",
-    "description": "",
-    "addedAt": 1770057110113
+    "style": "indie folk, ballad",
+    "description": "For anyone who's ever done the math and decided the world moves on fin",
+    "addedAt": 1770105391424
   },
   "34ba4fcd-f9e1-4573-9c06-59d22b4211ff": {
     "title": "This Is Enough",
     "artist": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_34ba4fcd-f9e1-4573-9c06-59d22b4211ff.jpeg",
-    "style": "",
+    "style": "indie folk, acoustic, anthemic",
     "description": "",
-    "addedAt": 1770057111112
+    "addedAt": 1770105398581
   },
   "943c5c64-ea34-47e7-9e9d-ede8a0ddd8ed": {
     "title": "It Was Always You [Son]",
     "artist": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_943c5c64-ea34-47e7-9e9d-ede8a0ddd8ed.jpeg",
-    "style": "",
+    "style": "indie folk, ballad",
     "description": "",
-    "addedAt": 1770057112175
+    "addedAt": 1770105405585
   },
   "acbc6f74-d243-43bd-8a73-4ae70883ec48": {
     "title": "It Was Always You [Daughter]",
     "artist": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_acbc6f74-d243-43bd-8a73-4ae70883ec48.jpeg",
-    "style": "",
+    "style": "indie folk, ballad",
     "description": "",
-    "addedAt": 1770057113232
+    "addedAt": 1770105412310
   },
   "ce8e1988-a9c3-40a0-9b33-29bf600cc63a": {
     "title": "I Don’t Care (What the Bible Says)",
@@ -582,5 +582,61 @@
     "style": "",
     "description": "",
     "addedAt": 1770102635772
+  },
+  "dd98d38f-59d0-4a0c-a9c2-0948368c175b": {
+    "title": "Red on the Wall - Acid House",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/image_large_dd98d38f-59d0-4a0c-a9c2-0948368c175b.jpeg",
+    "style": "acid house, rave, dance",
+    "description": "",
+    "addedAt": 1770105306577
+  },
+  "c1d02921-bd12-4126-9544-5f4b344611b5": {
+    "title": "Red on the Wall - Witch Trap",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/image_large_c1d02921-bd12-4126-9544-5f4b344611b5.jpeg",
+    "style": "witch house, dark industrial",
+    "description": "",
+    "addedAt": 1770105313744
+  },
+  "4933bf03-f6af-4f2f-a6b3-11afc30f6106": {
+    "title": "Digital Cowboys",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/video_upload_b1d7187d-d10e-4861-8fa9-40586ef6b125_video_upload_b1d7187d-d10e-4861-8fa9-40586ef6b125_cover_snapshot_0s_1763934610_image.jpeg",
+    "style": "electro-country, synth-pop, art pop",
+    "description": "Where Silicon Valley meets the Grand Ole Opry. An electro-country fusi",
+    "addedAt": 1770105320652
+  },
+  "6e6681fe-5375-4dcc-9efc-3b92d176a735": {
+    "title": "Eternal Resonance",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/image_large_6e6681fe-5375-4dcc-9efc-3b92d176a735.jpeg",
+    "style": "orchestral trance, symphonic electronic, classical-dance fusion",
+    "description": "",
+    "addedAt": 1770105327229
+  },
+  "30fdc75a-a858-4540-914f-6ce284631426": {
+    "title": "Eternal Resonance",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/image_large_30fdc75a-a858-4540-914f-6ce284631426.jpeg",
+    "style": "orchestral trance, symphonic electronic, classical-dance fusion",
+    "description": "",
+    "addedAt": 1770105334166
+  },
+  "fea8ab3c-b792-4753-8dd0-113b3ecdb0c0": {
+    "title": "BOHVNNON - LONELY NIGHTS (Zayra Cover)",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/f4d66629-a000-418f-b01d-9f9c143f88fa.jpeg",
+    "style": "dance-pop",
+    "description": "From frozen to burning. Done with lonely nights.",
+    "addedAt": 1770105341312
+  },
+  "ad99c003-bedf-43f3-8449-8fb2043b1056": {
+    "title": "Puppet Strings",
+    "artist": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/video_upload_b5b2c669-489d-4167-8b85-0922d865c55a_video_upload_b5b2c669-489d-4167-8b85-0922d865c55a_cover_snapshot_0s_1761758431_image.jpeg",
+    "style": "thrash metal, stadium rock, instrumental",
+    "description": "🔥 Shredding the strings of fate - 'Puppet Strings' unleashes a bliste",
+    "addedAt": 1770105347976
   }
 }
