@@ -13,7 +13,7 @@
       "4fe77ebc-92be-404c-ac5c-5bf1132b52ea",
       "5dcd6bf0-23d4-40a2-b0a7-23efa1bdae18"
     ],
-    "addedAt": 1770107790797
+    "addedAt": 1770109350282
   },
   "515b476a-01fa-4df0-8dcc-fb8f7c854800": {
     "title": "Winter Spice",
@@ -47,7 +47,7 @@
       "d69dbaa5-7740-4ded-b19f-d3508c7664a2",
       "30bfd9b4-7e3f-45d5-a2f9-b93e972f0f42"
     ],
-    "addedAt": 1770107956881
+    "addedAt": 1770109874938
   },
   "7cef1ad1-a7f9-491f-9a50-762e9e66dd04": {
     "title": "ExMormon",
@@ -83,5 +83,14 @@
       "ad99c003-bedf-43f3-8449-8fb2043b1056"
     ],
     "addedAt": 1770105440210
+  },
+  "286427b3-17b4-4193-9799-48e3f70a4227": {
+    "title": "Sudden Day",
+    "description": "Songs from June 7, 1844 Nauvoo Expositor: quotes on Joseph's polygamy, abuses & abominations. Press destruction led to his arrest & murder. Haunting folk from affidavits/resolutions. Raw history sung.",
+    "creator": "Suno AI",
+    "coverUrl": "https://cdn2.suno.ai/image_large_ff4ea206-0d85-4071-83ef-84d2f9ba8d51.jpeg",
+    "url": "https://suno.com/playlist/286427b3-17b4-4193-9799-48e3f70a4227",
+    "songs": [],
+    "addedAt": 1770108680555
   }
 }
