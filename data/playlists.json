@@ -83,10 +83,31 @@
     "title": "ExMormon",
     "description": "Songs for those who've walked away from Mormonism. Music that validates your faith transition - the grief, relief, and freedom of finding your own truth. You're not alone.",
     "creator": "ianux",
-    "coverUrl": "https://cdn2.suno.ai/a0be9261-af10-47f0-8bbc-63a1c704de6d.jpeg",
+    "coverUrl": "https://cdn2.suno.ai/image_large_9a368975-57dd-41b5-a4a7-4f5cfb6df235.jpeg",
     "url": "https://suno.com/playlist/7cef1ad1-a7f9-491f-9a50-762e9e66dd04",
-    "songs": [],
-    "addedAt": 1770151544549
+    "songs": [
+      "9a368975-57dd-41b5-a4a7-4f5cfb6df235",
+      "19967cea-570c-4529-8be3-8f323339bead",
+      "49a1e59d-c65e-41ba-b0fe-99f9d281ea0a",
+      "ce99c3a8-f78d-47dd-9161-eadbbba91f91",
+      "81f3983c-1e29-474e-9552-ac76e24c55e7",
+      "d1997835-9420-4098-9216-bdb76c55624f",
+      "7694d28d-22e0-44a3-b3da-f876f7b4f47b",
+      "af10b283-1ba7-49bd-95a5-d0807f94a245",
+      "777c74bc-051a-46b0-af87-c067da0ba006",
+      "f54fdcbc-79ca-4279-a9f8-fe5588a04de8",
+      "af6be56b-8994-45cb-b1d5-ebd8c5a9deb3",
+      "dbb97215-6ff1-448f-8772-5f17313fc9f0",
+      "180ae17c-9bb8-4afa-985f-62b4aaf16bdb",
+      "527524c8-cf61-4b6f-b911-06763ac736c4",
+      "d931840f-af3f-4d2c-a11d-757433a8a99d",
+      "32447345-2f35-4f0f-aa93-63f12b0b4fab",
+      "d8fe901b-b135-48cf-9852-9cefb475aef6",
+      "9b51bd1b-13cb-4358-8de6-0d54c2d13b41",
+      "4176c379-9122-4e72-93d8-3231e52245c9",
+      "c65212bd-2b8d-4fbe-9a3c-e40e0ec3d44d"
+    ],
+    "addedAt": 1770185288758
   },
   "06077ddd-a0e5-49ca-9445-b0049e9b0513": {
     "title": "Secular Songs",
@@ -170,7 +191,7 @@
   "cd3e2a3d-2631-4a8b-8eaa-52f9b9389655": {
     "title": "Thanksgiving After Dark",
     "description": "From feast to freaky, this adults-only Thanksgiving playlist serves up everything you won't hear at grandma's table. Warning: Not suitable for the kids' table! Delivers gratitude with attitude.",
-    "creator": "ianux",
+    "creator": "Suno AI",
     "coverUrl": "https://cdn2.suno.ai/video_upload_11d625ed-b577-4ebb-b120-e0f18e18cfb5_video_upload_11d625ed-b577-4ebb-b120-e0f18e18cfb5_cover_snapshot_0s_1764049779_image.jpeg",
     "url": "https://suno.com/playlist/cd3e2a3d-2631-4a8b-8eaa-52f9b9389655",
     "songs": [
@@ -192,6 +213,6 @@
       "7ea60e40-9c39-4cc8-9854-bba1e5f5c914",
       "d4e7a1a3-8075-476f-add1-02f56ed3e92f"
     ],
-    "addedAt": 1770184267120
+    "addedAt": 1770184064854
   }
 }
