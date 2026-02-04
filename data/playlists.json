@@ -18,7 +18,7 @@
   "515b476a-01fa-4df0-8dcc-fb8f7c854800": {
     "title": "Winter Spice",
     "description": "",
-    "creator": "ianux",
+    "creator": "Suno AI",
     "coverUrl": "https://cdn2.suno.ai/image_large_0f4c5513-749e-491e-b2cf-d301820c8a5c.jpeg",
     "url": "https://suno.com/playlist/515b476a-01fa-4df0-8dcc-fb8f7c854800",
     "songs": [
@@ -45,7 +45,7 @@
       "6b534900-a0a6-4006-8bff-d5d693150f64",
       "b35307b0-8dfc-40b5-919b-2a9b7e79651f"
     ],
-    "addedAt": 1770181955662
+    "addedAt": 1770181748653
   },
   "8684541b-5c00-4c61-b5b9-fdfded00fe60": {
     "title": "Already Home",
@@ -83,12 +83,33 @@
   },
   "06077ddd-a0e5-49ca-9445-b0049e9b0513": {
     "title": "Secular Songs",
-    "description": "",
-    "creator": "Suno AI",
+    "description": "Humanist anthems for freethinkers. Cosmic wonder, secular parenting, defending pluralism, and death acceptance - all without gods. Music that celebrates this one beautiful life.",
+    "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/cd8db8d7-0f07-4ee2-8c18-868e3d1f371a.jpeg",
     "url": "https://suno.com/playlist/06077ddd-a0e5-49ca-9445-b0049e9b0513",
-    "songs": [],
-    "addedAt": 1770065065644
+    "songs": [
+      "ce8e1988-a9c3-40a0-9b33-29bf600cc63a",
+      "fb42884a-5488-48c0-8249-1a9d26ac7df2",
+      "4207dc3f-fe35-4d71-a7ba-951444fd88cb",
+      "0db21897-c248-461b-b5db-efb32eee9b94",
+      "a2f47f1d-a940-45b2-ad5e-48d0717326f4",
+      "8f746f0d-2a3a-492a-bec3-bb062378dacd",
+      "2c4bff7b-02d7-41c3-90be-9a3169a299bf",
+      "3081e644-0038-48c7-b512-ed5e1137b3de",
+      "1f131823-8e25-4add-b406-987a75b97ad5",
+      "e6a41076-62f9-4cc4-8b25-7702124ad144",
+      "d6c06b9f-3154-4a8c-93da-6f50adbe6553",
+      "62e5032c-d389-47ce-a56d-6ec3a53dec53",
+      "9546d1e6-24eb-4252-9585-8062784d6b15",
+      "a3229c21-6702-4e58-8095-cac521655185",
+      "418b3ca4-34f4-4754-9242-ac6b755d5c6c",
+      "56bfb6f9-e82c-467d-8ee6-198280a19ab0",
+      "27de0cc8-1da0-491b-9efd-a0f33440fa82",
+      "ea6f458a-5775-4793-b342-5649debfeb04",
+      "39ec1155-9e1f-4277-8648-2d089c2b1234",
+      "70c58e07-cb0b-4507-93b4-f21150d59066"
+    ],
+    "addedAt": 1770183552074
   },
   "f10326a4-da75-4c1b-a3c9-3599ebcf0dbe": {
     "title": "Experimental",
