@@ -61,7 +61,7 @@
       "943c5c64-ea34-47e7-9e9d-ede8a0ddd8ed",
       "acbc6f74-d243-43bd-8a73-4ae70883ec48"
     ],
-    "addedAt": 1770184032366
+    "addedAt": 1770183990306
   },
   "18bb34aa-49f4-4f2d-98b9-335aac4d3881": {
     "title": "Journal of Discords",
@@ -166,5 +166,32 @@
       "c54441ec-b558-4552-ba54-5c1089cf9867"
     ],
     "addedAt": 1770166494743
+  },
+  "cd3e2a3d-2631-4a8b-8eaa-52f9b9389655": {
+    "title": "Thanksgiving After Dark",
+    "description": "From feast to freaky, this adults-only Thanksgiving playlist serves up everything you won't hear at grandma's table. Warning: Not suitable for the kids' table! Delivers gratitude with attitude.",
+    "creator": "ianux",
+    "coverUrl": "https://cdn2.suno.ai/video_upload_11d625ed-b577-4ebb-b120-e0f18e18cfb5_video_upload_11d625ed-b577-4ebb-b120-e0f18e18cfb5_cover_snapshot_0s_1764049779_image.jpeg",
+    "url": "https://suno.com/playlist/cd3e2a3d-2631-4a8b-8eaa-52f9b9389655",
+    "songs": [
+      "85e15689-097a-4439-b9c3-ebbbbcc0f0c4",
+      "d635a9e7-aded-480b-9d1e-a9f941016b72",
+      "58071043-e3e9-4974-9bc5-e9616e9a99b4",
+      "757e935e-0024-46d3-a365-9d89ee0befb8",
+      "6a68b4f8-af7f-48a1-84dd-c72493f4df66",
+      "37c82e2a-dc5e-4b15-80fe-d609ab9ad611",
+      "e6fc4829-f7cd-48b3-a358-0bfbb7de63d2",
+      "6ad4960d-858e-4ff7-ba53-64befed4806d",
+      "7fe4b333-fd06-47ba-ad89-4ffe284f023a",
+      "c42e8eed-38e2-4f42-b64e-29d0380571cb",
+      "02eedfad-4378-4328-b002-591f0efafdf2",
+      "db972d86-52f1-4c52-8200-116d4b1d3f1d",
+      "97a69322-6ff7-4079-85d7-e98f20e6aefc",
+      "b3871445-07c0-4a79-b526-6c653818fc77",
+      "7902d1a1-2063-4bca-8e48-458f74a8ac0f",
+      "7ea60e40-9c39-4cc8-9854-bba1e5f5c914",
+      "d4e7a1a3-8075-476f-add1-02f56ed3e92f"
+    ],
+    "addedAt": 1770184267120
   }
 }
