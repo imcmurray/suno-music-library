@@ -13,7 +13,7 @@
       "4fe77ebc-92be-404c-ac5c-5bf1132b52ea",
       "5dcd6bf0-23d4-40a2-b0a7-23efa1bdae18"
     ],
-    "addedAt": 1770109350282
+    "addedAt": 1770150932012
   },
   "515b476a-01fa-4df0-8dcc-fb8f7c854800": {
     "title": "Winter Spice",
@@ -31,7 +31,7 @@
     "coverUrl": "https://cdn2.suno.ai/52d1b9ec-4b02-481b-ac7a-f146f3a3135a.jpeg",
     "url": "https://suno.com/playlist/8684541b-5c00-4c61-b5b9-fdfded00fe60",
     "songs": [],
-    "addedAt": 1770105366462
+    "addedAt": 1770156655203
   },
   "18bb34aa-49f4-4f2d-98b9-335aac4d3881": {
     "title": "Journal of Discords",
@@ -47,16 +47,16 @@
       "d69dbaa5-7740-4ded-b19f-d3508c7664a2",
       "30bfd9b4-7e3f-45d5-a2f9-b93e972f0f42"
     ],
-    "addedAt": 1770109874938
+    "addedAt": 1770136419136
   },
   "7cef1ad1-a7f9-491f-9a50-762e9e66dd04": {
     "title": "ExMormon",
-    "description": "",
+    "description": "Songs for those who've walked away from Mormonism. Music that validates your faith transition - the grief, relief, and freedom of finding your own truth. You're not alone.",
     "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/a0be9261-af10-47f0-8bbc-63a1c704de6d.jpeg",
     "url": "https://suno.com/playlist/7cef1ad1-a7f9-491f-9a50-762e9e66dd04",
     "songs": [],
-    "addedAt": 1770065154517
+    "addedAt": 1770151544549
   },
   "06077ddd-a0e5-49ca-9445-b0049e9b0513": {
     "title": "Secular Songs",
@@ -70,7 +70,7 @@
   "f10326a4-da75-4c1b-a3c9-3599ebcf0dbe": {
     "title": "Experimental",
     "description": "",
-    "creator": "Suno AI",
+    "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_dd98d38f-59d0-4a0c-a9c2-0948368c175b.jpeg",
     "url": "https://suno.com/playlist/f10326a4-da75-4c1b-a3c9-3599ebcf0dbe",
     "songs": [
@@ -82,15 +82,38 @@
       "fea8ab3c-b792-4753-8dd0-113b3ecdb0c0",
       "ad99c003-bedf-43f3-8449-8fb2043b1056"
     ],
-    "addedAt": 1770105440210
+    "addedAt": 1770157857383
   },
   "286427b3-17b4-4193-9799-48e3f70a4227": {
     "title": "Sudden Day",
     "description": "Songs from June 7, 1844 Nauvoo Expositor: quotes on Joseph's polygamy, abuses & abominations. Press destruction led to his arrest & murder. Haunting folk from affidavits/resolutions. Raw history sung.",
-    "creator": "Suno AI",
+    "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_ff4ea206-0d85-4071-83ef-84d2f9ba8d51.jpeg",
     "url": "https://suno.com/playlist/286427b3-17b4-4193-9799-48e3f70a4227",
-    "songs": [],
-    "addedAt": 1770108680555
+    "songs": [
+      "ff4ea206-0d85-4071-83ef-84d2f9ba8d51",
+      "ba50afac-5de3-4cc0-b5fc-041906cb35b3",
+      "d8a6d046-e086-4e8a-b636-a2b1f6577907",
+      "61312d3a-eead-4bfd-a79a-ede579f7b3d6",
+      "299d3f95-ab0a-44b3-9c9d-f38443f07865",
+      "f38f731a-e341-4420-88cb-e5f696dbce96",
+      "037ee37d-c35d-453d-9a8b-df2d295b00fd",
+      "10228a53-bc0e-443f-89f5-0768105a323d",
+      "b81dd2e3-fdfb-4a2a-930e-574f75754cec",
+      "a5ca0607-8880-4fee-89e6-d22566a8db2c",
+      "e8fc7980-ad1b-4367-b20e-a067dc1a131f",
+      "a5f0bd5e-7d83-4b7d-8bbf-2353edaa9d13",
+      "86691f97-49c0-4c6a-b492-6cbcb5570ea2",
+      "cc51bd8c-695e-4536-9b3f-2135543650e4",
+      "69de3a39-56a1-471b-ae45-dcbe438e6bf4",
+      "fcb8d616-61f5-448d-bd4a-847c23677b7d",
+      "31ff36cc-e9d4-4cb0-aabe-7f4a80081c74",
+      "febfa13b-8e0f-4d8f-b149-f6c10e4d2018",
+      "8e147196-5f20-463d-8ddd-d0577b9ba69c",
+      "90c8462a-bde0-4a1b-8a1c-9ebe2ac8612c",
+      "09440126-dda5-41b6-9bd5-e209b3215900",
+      "c54441ec-b558-4552-ba54-5c1089cf9867"
+    ],
+    "addedAt": 1770166494743
   }
 }
