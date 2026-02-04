@@ -53,13 +53,20 @@
     "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/52d1b9ec-4b02-481b-ac7a-f146f3a3135a.jpeg",
     "url": "https://suno.com/playlist/8684541b-5c00-4c61-b5b9-fdfded00fe60",
-    "songs": [],
-    "addedAt": 1770156655203
+    "songs": [
+      "27de0cc8-1da0-491b-9efd-a0f33440fa82",
+      "6a9da824-2991-4cdc-bbab-82fe142dee91",
+      "66ef8488-9f44-4f5b-a011-75808dc064fa",
+      "34ba4fcd-f9e1-4573-9c06-59d22b4211ff",
+      "943c5c64-ea34-47e7-9e9d-ede8a0ddd8ed",
+      "acbc6f74-d243-43bd-8a73-4ae70883ec48"
+    ],
+    "addedAt": 1770184032366
   },
   "18bb34aa-49f4-4f2d-98b9-335aac4d3881": {
     "title": "Journal of Discords",
     "description": "Consists of 26 collections of sermons delivered by early LDS leaders  from 1854 to 1886. This project documents what was taught for generations. Discretion advised! \nSee https://JournalOfDiscords.com",
-    "creator": "ianux",
+    "creator": "Suno AI",
     "coverUrl": "https://cdn2.suno.ai/video_gen_image_large_c49845a5-6ae3-4a42-a219-2e9452c296ac_11a48eed-b48d-425a-84bc-41029636d8a8.jpeg",
     "url": "https://suno.com/playlist/18bb34aa-49f4-4f2d-98b9-335aac4d3881",
     "songs": [
@@ -70,7 +77,7 @@
       "d69dbaa5-7740-4ded-b19f-d3508c7664a2",
       "30bfd9b4-7e3f-45d5-a2f9-b93e972f0f42"
     ],
-    "addedAt": 1770183963135
+    "addedAt": 1770183914032
   },
   "7cef1ad1-a7f9-491f-9a50-762e9e66dd04": {
     "title": "ExMormon",
