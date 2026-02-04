@@ -21,8 +21,31 @@
     "creator": "ianux",
     "coverUrl": "https://cdn2.suno.ai/image_large_0f4c5513-749e-491e-b2cf-d301820c8a5c.jpeg",
     "url": "https://suno.com/playlist/515b476a-01fa-4df0-8dcc-fb8f7c854800",
-    "songs": [],
-    "addedAt": 1770103723052
+    "songs": [
+      "0f4c5513-749e-491e-b2cf-d301820c8a5c",
+      "b8a0ba58-54c5-42f7-8135-6a237c67fe48",
+      "532a26ea-41a3-40fb-9d23-6284e21bf8a2",
+      "8c4563cf-acfd-4510-8d1c-bdde9937e5cf",
+      "11182403-da45-409a-b517-ffc9a6fb089e",
+      "fb7ff25d-705d-4425-b391-942ee6aa9ba1",
+      "6519aad1-aeb5-4e09-b9a7-ca772a452811",
+      "419fa6e4-91f5-433a-a91a-4fdc2f6631f4",
+      "4aca6a1e-c9ba-45f5-916c-f248e301b1c7",
+      "b6a4d14b-f7bb-4335-82b7-8cca0909cfbe",
+      "1a413acd-d9ec-4d23-824b-1fd82b3ecf9a",
+      "7a5dbf17-423c-4b98-af6b-d2052b980398",
+      "5e5fea58-fe1f-448e-a09c-f78bbe2449a4",
+      "c7234c12-a1aa-41c0-8248-ac628b741ea3",
+      "fafb4582-64b8-4e57-bf90-bfe4f2702cf3",
+      "27ab2bfa-0461-464f-a6ff-ffa2db945b66",
+      "24899fdc-9d1a-4aae-86ab-467e8e420e67",
+      "3a03e5f7-a15d-4101-adc2-4a9d82588d6a",
+      "90e7297a-fc49-4fdc-a8a0-f889ce1554ac",
+      "5a35caee-944a-46d3-a095-253e98f7a92b",
+      "6b534900-a0a6-4006-8bff-d5d693150f64",
+      "b35307b0-8dfc-40b5-919b-2a9b7e79651f"
+    ],
+    "addedAt": 1770181955662
   },
   "8684541b-5c00-4c61-b5b9-fdfded00fe60": {
     "title": "Already Home",
